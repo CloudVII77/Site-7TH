@@ -1,0 +1,21 @@
+html {
+  font-family: "Anta", sans-serif;
+}
+
+#primeiro {
+    height:200px;
+    width:200px;
+    background-color:black;
+    display:inline-block;
+}
+#segundo {
+    height:200px;
+    width:200px;
+    background-color:red;
+}
+#terceiro {
+    height:200px;
+    width:200px;
+    background-color:purple;
+    display:inline-block;
+}
